@@ -15,12 +15,11 @@ const BOOKS = [
     humanBodyBook,
     earthBook,
     physicsBook,
-   chemistryBook,
-   mathBook,
-   biologyBook,
-   computerScienceBook
+    chemistryBook,
+    mathBook,
+    biologyBook,
+    computerScienceBook
 ];
-
 
 /* =========================================================
    APP STATE
