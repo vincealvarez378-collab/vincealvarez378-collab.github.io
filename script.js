@@ -21,6 +21,11 @@ const BOOKS = [
     computerScienceBook,
    environmentalScienceBook,
    psychologyBook,
+    astronomyBook,
+    historyBook,
+    geographyBook,
+    economicsBook,
+    healthScienceBook,
 ];
 
 /* =========================================================
