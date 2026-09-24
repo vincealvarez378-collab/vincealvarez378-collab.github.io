@@ -19,15 +19,19 @@ const BOOKS = [
     mathBook,
     biologyBook,
     computerScienceBook,
-   environmentalScienceBook,
-   psychologyBook,
+    environmentalScienceBook,
+    psychologyBook,
     astronomyBook,
     historyBook,
     geographyBook,
     economicsBook,
     healthScienceBook,
+    technologyBook,
+    mindBook,
+    lifeBook,
+    worldBook,
+    futureBook
 ];
-
 /* =========================================================
    APP STATE
    ========================================================= */
