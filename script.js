@@ -20,6 +20,7 @@ const BOOKS = [
     biologyBook,
     computerScienceBook,
    environmentalScienceBook,
+   psychologyBook,
 ];
 
 /* =========================================================
