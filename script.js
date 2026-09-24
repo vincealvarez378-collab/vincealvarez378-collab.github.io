@@ -27,9 +27,9 @@ const BOOKS = [
     economicsBook,
     healthScienceBook,
     technologyBook,
-    mindBook,
+    humanMindBook,
     lifeBook,
-    worldBook,
+    ourWorldBook,
     futureBook
 ];
 /* =========================================================
