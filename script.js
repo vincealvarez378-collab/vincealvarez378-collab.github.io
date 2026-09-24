@@ -17,7 +17,8 @@ const BOOKS = [
     physicsBook,
    chemistryBook,
    mathBook,
-   biologyBook
+   biologyBook,
+   computer-scienceBook
 ];
 
 
