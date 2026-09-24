@@ -15,7 +15,8 @@ const BOOKS = [
     humanBodyBook,
     earthBook,
     physicsBook,
-   chemistryBook
+   chemistryBook,
+   mathBook
 ];
 
 
