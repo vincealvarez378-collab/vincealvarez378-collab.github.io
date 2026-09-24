@@ -18,7 +18,8 @@ const BOOKS = [
     chemistryBook,
     mathBook,
     biologyBook,
-    computerScienceBook
+    computerScienceBook,
+   environmentalScienceBook,
 ];
 
 /* =========================================================
