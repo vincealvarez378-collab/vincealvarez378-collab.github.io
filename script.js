@@ -30,7 +30,12 @@ const BOOKS = [
     humanMindBook,
     lifeBook,
     ourWorldBook,
-    futureBook
+    futureBook,
+    oceansBook,
+    weatherClimateBook,
+    geneticsBook,
+    electricityMagnetismBook,
+    storyLifeOnEarthBook
 ];
 /* =========================================================
    APP STATE
