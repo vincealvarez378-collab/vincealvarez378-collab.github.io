@@ -35,7 +35,12 @@ const BOOKS = [
     weatherClimateBook,
     geneticsBook,
     electricityMagnetismBook,
-    storyLifeOnEarthBook
+    storyLifeOnEarthBook,
+    languageBook,
+    artBook,
+    agricultureBook,
+    engineeringBook,
+    criticalThinkingBook
 ];
 /* =========================================================
    APP STATE
